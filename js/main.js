@@ -15,4 +15,4 @@ $(document).ready(function(){
 });
 document.addEventListener("DOMContentLoaded", function(event) { 
     Chocolat(document.querySelectorAll('.chocolat-parent .chocolat-image'))
-})
+}) 
