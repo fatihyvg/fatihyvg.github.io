@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fatih Yavaşoğlu",
+    "description": "",
+    "home_page_url": "https://fatihyvg.github.io",
+    "feed_url": "https://fatihyvg.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://fatihyvg.github.io/media/website/fatih-yavasoglu-logo.png",
+    "author": {
+        "name": "fatih yavaşoğlu"
+    },
+    "items": [
+    ]
+}

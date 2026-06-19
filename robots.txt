@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fatihyvg.github.io/sitemap.xml

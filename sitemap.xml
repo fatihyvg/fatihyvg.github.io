@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://fatihyvg.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://fatihyvg.github.io/</loc>
+</url>
+<url>
+<loc>https://fatihyvg.github.io/hakkimda.html</loc>
+<lastmod>2026-06-18T20:56:03+03:00</lastmod>
+<image:image>
+<image:loc>https://fatihyvg.github.io/media/posts/1/fatih-yavasoglu.jpg</image:loc>
+<image:title><![CDATA[fatih yavaşoğlu]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fatihyvg.github.io/iletisim.html</loc>
+<lastmod>2026-06-18T23:21:06+03:00</lastmod>
+</url>
+<url>
+<loc>https://fatihyvg.github.io/kurasyon.html</loc>
+<lastmod>2026-06-18T20:52:48+03:00</lastmod>
+<image:image>
+<image:loc>https://fatihyvg.github.io/media/posts/6/1970-izmir-ephesus-hadrian-tapinagi.jpg</image:loc>
+<image:title><![CDATA[fatih yavaşoğlu]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://fatihyvg.github.io/neler-var.html</loc>
+<lastmod>2026-06-18T19:38:03+03:00</lastmod>
+</url>
+<url>
+<loc>https://fatihyvg.github.io/referanslar.html</loc>
+<lastmod>2026-06-18T21:15:17+03:00</lastmod>
+</url>
+</urlset>
