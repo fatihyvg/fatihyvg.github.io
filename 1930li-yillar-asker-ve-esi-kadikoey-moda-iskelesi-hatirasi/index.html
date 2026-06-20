@@ -139,7 +139,65 @@
 
          <div class="comments-area">
             <div class="post__inner">
-               
+               <div class="comments">
+	            <div class="comments-wrapper">
+	               	
+			<h2>
+		        Yorumlar
+		    </h2>
+	    							
+										
+					<div id="commento"></div>
+					<noscript>
+						Please enable JS to use the comments form.
+					</noscript>
+					
+					<script type="text/javascript">
+						
+				var commento_element_to_check = document.getElementById('commento');
+
+				if ('IntersectionObserver' in window) {
+					var iObserver = new IntersectionObserver(
+						(entries, observer) => {
+							entries.forEach(entry => {
+								if (entry.intersectionRatio >= 0.1) {
+									(function () {
+										var d = document, s = d.createElement('script');
+										s.defer = true;
+										s.setAttribute('data-no-fonts','true');
+										s.setAttribute('data-page-id','11');
+										s.setAttribute('data-hide-deleted','false');
+										s.src = 'https://cdn.commento.io/js/commento.js';									
+										(d.head || d.body).appendChild(s);
+									})();
+									observer.unobserve(entry.target);
+								}
+							});
+						},
+						{
+							threshold: [0, 0.2, 0.5, 1]
+						}
+					);
+
+					iObserver.observe(commento_element_to_check);
+				} else {
+					(function () {
+						var d = document, s = d.createElement('script');
+						s.defer = true;
+						s.setAttribute('data-no-fonts','true');
+						s.setAttribute('data-page-id','11');
+						s.setAttribute('data-hide-deleted','false');
+						s.src = 'https://cdn.commento.io/js/commento.js';
+						(d.head || d.body).appendChild(s);
+					})();
+				}
+			
+					</script>
+					<script type="text/javascript">
+						
+					</script>
+				</div>
+			</div>
             </div>
          </div>
 
