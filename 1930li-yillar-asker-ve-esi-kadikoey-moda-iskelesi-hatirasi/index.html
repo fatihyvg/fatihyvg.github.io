@@ -143,18 +143,24 @@
 	            <div class="comments-wrapper">
 	               	
 			<h2>
-		        Yorumlar
+		        Yorum Yaz
 		    </h2>
-	    							
-										
-					<div id="commento"></div>
+	    				
+					<div 
+						id="cusdis_thread"
+						data-host="https://cusdis.com"
+						data-app-id="0d264c6b-710a-4b53-8bfe-5ae46d99dc0d"
+						data-page-id="11"
+						data-page-url="https://fatihyvg.github.io/1930li-yillar-asker-ve-esi-kadikoey-moda-iskelesi-hatirasi/"
+						data-page-title="1930'lu Yıllar: Kadıköy Moda İskelesi'nde Bir Asker, Eşi ve Kızı"
+						data-theme="auto"></div>
 					<noscript>
 						Please enable JS to use the comments form.
 					</noscript>
 					
 					<script type="text/javascript">
 						
-				var commento_element_to_check = document.getElementById('commento');
+				var cusdis_element_to_check = document.getElementById('cusdis_thread');
 
 				if ('IntersectionObserver' in window) {
 					var iObserver = new IntersectionObserver(
@@ -164,10 +170,7 @@
 									(function () {
 										var d = document, s = d.createElement('script');
 										s.defer = true;
-										s.setAttribute('data-no-fonts','true');
-										s.setAttribute('data-page-id','11');
-										s.setAttribute('data-hide-deleted','false');
-										s.src = 'https://cdn.commento.io/js/commento.js';									
+										s.src = 'https://cusdis.com/js/cusdis.es.js';									
 										(d.head || d.body).appendChild(s);
 									})();
 									observer.unobserve(entry.target);
@@ -179,15 +182,12 @@
 						}
 					);
 
-					iObserver.observe(commento_element_to_check);
+					iObserver.observe(cusdis_element_to_check);
 				} else {
 					(function () {
 						var d = document, s = d.createElement('script');
 						s.defer = true;
-						s.setAttribute('data-no-fonts','true');
-						s.setAttribute('data-page-id','11');
-						s.setAttribute('data-hide-deleted','false');
-						s.src = 'https://cdn.commento.io/js/commento.js';
+						s.src = 'https://cusdis.com/js/cusdis.es.js';
 						(d.head || d.body).appendChild(s);
 					})();
 				}
