@@ -3,7 +3,7 @@
     <title>Fatih Yavaşoğlu</title>
     <link href="https://fatihyvg.github.io/feed.xml" rel="self" />
     <link href="https://fatihyvg.github.io" />
-    <updated>2026-06-21T19:17:38+03:00</updated>
+    <updated>2026-06-21T19:40:59+03:00</updated>
     <author>
         <name>fatih yavaşoğlu</name>
     </author>
@@ -17,6 +17,9 @@
         <link href="https://fatihyvg.github.io/ueskuedardan-salacaka-dogru-fotograf-serisi/"/>
         <id>https://fatihyvg.github.io/ueskuedardan-salacaka-dogru-fotograf-serisi/</id>
         <media:content url="https://fatihyvg.github.io/media/posts/12/uskudar-salacak-dogru-sahil-manzarasi.jpg" medium="image" />
+            <category term="üsküdar"/>
+            <category term="kız kulesi"/>
+            <category term="fotoğraf günlüğü"/>
 
         <updated>2026-06-21T19:17:38+03:00</updated>
             <summary type="html">
